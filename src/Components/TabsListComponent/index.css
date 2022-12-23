@@ -1,0 +1,14 @@
+.list-items-cont {
+  list-style-type: none;
+  display: flex;
+}
+
+.tab-items-head {
+  color: #ffffff;
+  border-color: black;
+  background-color: transparent;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: 'Roboto';
+  font-size: 25px;
+}

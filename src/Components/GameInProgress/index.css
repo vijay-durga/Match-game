@@ -1,0 +1,28 @@
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.images {
+  height: 250px;
+  width: 450px;
+  margin-top: 105px;
+}
+
+.tabs-para {
+  list-style-type: none;
+}
+
+.tabsListItems-cont {
+  display: flex;
+}
+
+.thumbnail-cont {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
